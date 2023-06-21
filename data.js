@@ -72,7 +72,6 @@ const students = {
       },
       phones:["3222320068"],
     },
-        , 
         "201924087" : {
             "name" : "Miguel Enrique",
             "lastName" : "Pedraza Angeñ",
