@@ -36,5 +36,17 @@ const students = {
       },
       phones: ["320975121", "7752345", "3107637837"],
     },
+        "201910808" : {
+            "name" : "Cristian Camilo",
+            "lastName" : "Suancha Alvarez",
+            "birthday" : "2001-10-08",
+            "gender" : true,
+            "address" : {
+                "street" : 14,
+                "number" : 12,
+                "city" : "Sogamoso"
+            },
+            "phones":["3028309499","7728456","3022481320"]
+        }
   },
 };
