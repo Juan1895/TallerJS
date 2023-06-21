@@ -60,6 +60,18 @@ const students = {
         },
         phones:["3028309499","7728456","3022481320"]
     },
+    201621991: {
+      name: "Camilo ",
+      lastName: "Buitrago Veloza",
+      birthday: "1999-12-01",
+      gender: true,
+      address: {
+        street: 16,
+        number: 11,
+        city: "Duitama",
+      },
+      phones: ["123", "77523", "310763"],
+    },
     201910281 : {
       name : "Laura Melissa",
       lastName : "Barrera Pinto",
@@ -71,42 +83,6 @@ const students = {
          city : "Sogamoso",
       },
       phones:["3222320068"],
-    },
-        "201924087" : {
-            "name" : "Miguel Enrique",
-            "lastName" : "Pedraza Angel",
-            "birthday" : "2001-09-14",
-            "gender" : true,
-            "address" : {
-                "street" : 19,
-                "number" : 20,
-                "city" : "Sogamoso"
-            },
-            "phones":["3138829620","3112244734","3103175962"]
-        },
-    "201820992" : {
-            "name" : "Sebastian",
-            "lastName" : "Cely Peña",
-            "birthday" : "2001-11-12",
-            "gender" : true,
-            "address" : {
-                "street" : 16,
-                "number" : 20,
-                "city" : "Sogamoso"
-            },
-            "phones":["348216909","7754645","3107337837"]
-        },
-    201821080: {
-      name: "Esneider Yesid",
-      lastName: "Patiño rojas",
-      birthday: "1999-12-21",
-      gender: true,
-      address: {
-        street: 16,
-        number: 20,
-        city: "Sogamoso",
-      },
-      phones: ["0987654321", "00000001", "3214679259"],
     },
   },
 };
