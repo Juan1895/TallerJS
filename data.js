@@ -47,6 +47,18 @@ const students = {
             city : "Sogamoso"
         },
         phones:["3028309499","7728456","3022481320"]
-    }
+    },
+    201910281 : {
+      name : "Laura Melissa",
+      lastName : "Barrera Pinto",
+      birthday : "2002-04-17",
+      gender : false,
+      address : {
+         street : 5,
+         number : 28,
+         city : "Sogamoso",
+      },
+      phones:["3222320068"],
+    },
   },
 };
