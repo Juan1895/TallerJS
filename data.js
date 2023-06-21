@@ -96,5 +96,17 @@ const students = {
             },
             "phones":["348216909","7754645","3107337837"]
         },
+    201821080: {
+      name: "Esneider Yesid",
+      lastName: "Patiño rojas",
+      birthday: "1999-12-21",
+      gender: true,
+      address: {
+        street: 16,
+        number: 20,
+        city: "Sogamoso",
+      },
+      phones: ["0987654321", "00000001", "3214679259"],
+    },
   },
 };
