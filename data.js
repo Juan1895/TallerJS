@@ -74,7 +74,7 @@ const students = {
     },
         "201924087" : {
             "name" : "Miguel Enrique",
-            "lastName" : "Pedraza Angeñ",
+            "lastName" : "Pedraza Angel",
             "birthday" : "2001-09-14",
             "gender" : true,
             "address" : {
