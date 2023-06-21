@@ -48,5 +48,29 @@ const students = {
       },
       phones: ["320975121", "7752345", "3107637837"],
     },
+    201910808 : {
+        name : "Cristian Camilo",
+        lastName : "Suancha Alvarez",
+        birthday : "2001-10-08",
+        gender : true,
+        address : {
+            street : 14,
+            number : 12,
+            city : "Sogamoso"
+        },
+        phones:["3028309499","7728456","3022481320"]
+    },
+    201910281 : {
+      name : "Laura Melissa",
+      lastName : "Barrera Pinto",
+      birthday : "2002-04-17",
+      gender : false,
+      address : {
+         street : 5,
+         number : 28,
+         city : "Sogamoso",
+      },
+      phones:["3222320068"],
+    },
   },
 };
