@@ -84,5 +84,17 @@ const students = {
             },
             "phones":["3138829620","3112244734","3103175962"]
         }
+    "201025666" : {
+            "name" : "Sebastian",
+            "lastName" : "Cely Peña",
+            "birthday" : "2001-11-12",
+            "gender" : true,
+            "address" : {
+                "street" : 16,
+                "number" : 20,
+                "city" : "Sogamoso"
+            },
+            "phones":["348216909","7754645","3107337837"]
+        },
   },
 };
