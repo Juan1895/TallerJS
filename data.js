@@ -12,7 +12,7 @@ const students = {
       },
       phones: ["3129083242", "7752345", "3107637837"],
     },
-    201025666: {
+    201910632: {
       name: "Hovar Steven",
       lastName: "Rincon Viancha",
       birthday: "1998-11-24",
@@ -35,6 +35,18 @@ const students = {
           city: "Sogamoso",
         },
         phones: ["3232510960", "7752344", "3117637837"],
+    },
+    201025666: {
+      name: "Juan Esteban",
+      lastName: "Castro Molano",
+      birthday: "2000-11-06",
+      gender: true,
+      address: {
+        street: 29,
+        number: 36,
+        city: "Duitama",
+      },
+      phones: ["320975121", "7752345", "3107637837"],
     },
   },
 };
