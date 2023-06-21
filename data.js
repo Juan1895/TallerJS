@@ -24,5 +24,17 @@ const students = {
       },
       phones: ["1234567890", "7752345", "3107637837"],
     },
+    201911876: {
+        name: "Andres Ivan",
+        lastName: "Sierra Espinel",
+        birthday: "2001-08-17",
+        gender: true,
+        address: {
+          street: 4,
+          number: 2,
+          city: "Sogamoso",
+        },
+        phones: ["3232510960", "7752344", "3117637837"],
+    },
   },
 };
